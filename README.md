@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello 👋👋, my name is Ishraq. I am an aspiring web developer, fascinated by technology, amused by combining coding and design to create a magical harmony. I am currently challenging my self by studying Full-Stuck web development.
 
 <!--
 **ishraqajeel/ishraqajeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
